@@ -920,7 +920,7 @@ Age,Race,Marital Status,T Stage,N Stage,6th Stage,differentiate,Grade,A Stage,Tu
 66,White,Married,T1,N1,IIA,Moderately differentiated,2,Regional,14,Positive,Positive,3,1,92,Alive
 51,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,20,Negative,Negative,13,3,102,Alive
 63,White,Single ,T2,N1,IIB,Well differentiated,1,Regional,27,Positive,Positive,19,2,104,Alive
-43,Other,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,40,Positive,Positive,19,11,1,Alive
+43,Other,Married,T2,N3,IIIC,Moderately differentiated,2,Regional,40,Positive,Positive,19,11,1,Alive 
 49,White,Married,T3,N3,IIIC,Moderately differentiated,2,Regional,92,Positive,Positive,27,27,23,Dead
 69,White,Single ,T1,N1,IIA,Moderately differentiated,2,Regional,7,Positive,Positive,18,2,85,Alive
 51,Other,Married,T1,N1,IIA,Poorly differentiated,3,Regional,20,Positive,Positive,8,2,94,Alive
